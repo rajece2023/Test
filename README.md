@@ -1,2 +1,1 @@
-# Test
-This is class 3
+Instructor Demo
